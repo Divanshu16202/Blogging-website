@@ -1,5 +1,4 @@
-//jshint esversion:6
-//require modules
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const engine = require('ejs-locals');
